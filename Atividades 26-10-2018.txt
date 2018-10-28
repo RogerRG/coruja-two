@@ -1,0 +1,27 @@
+html5up.net
+Fonte pro
+Font Awesome
+https://fontawesome.com/free
+https://html5up.net
+
+
+
+1) Abrir o site http://www.html5up.net;
+2) Escolher um layout em html5 e CSS3;
+3) Salvar o arquivo .zip do site escolhido na máquina;
+4) Descompactar o site escolhido na máquina; 
+5) Alterar o site para um tema escolhido por você que deve conter: 
+	a) Tags meta completas;
+	b) Logo do site na barra de endereço do navegador; 
+	b) Um video do youtube utilizando iframe;
+	c) Um mapa do google maps utilizando iframe;
+	d) Um vídeo utilizando a tag video (preferência por mp4);
+ 		Dica: https://www.camilaporto.com.br/videos/top-banco-de-videos-gratuitos
+	e) Um aúdio utilizando a tag audio (preferência por mp3);
+ 		Dica: https://www.camilaporto.com.br/videos/top-banco-de-musicas-gratuitas
+	f) Link para redes socias (podem ser fictícios); 
+6) Alterar o formulário do site incluindo mais entradas de dados (de acordo com o perfil do site);
+7) Comentar no html as tags de formulário;
+8) Comentar no html as tags semânticas de html5 do layout;
+9) Identificar e comentar no html a tag meta de layout responsivo;
+10) Identificar e comentar no CSS as linhas de código relacionadas a animações e transições em CSS3; 
